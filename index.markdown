@@ -5,9 +5,6 @@
 layout: home
 ---
 
-Gurman Toor
-======
-
 Education
 ---------
 **B.Sc. Major in Computer Science (Co-op), University of Manitoba** (2019-present)
