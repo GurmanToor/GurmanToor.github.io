@@ -4,8 +4,7 @@
 
 layout: home
 ---
-Gurman Toor
------------
+
 
 Education
 ---------
