@@ -78,6 +78,8 @@ Since, the main body of the Jekyll site is stored inside the ```index.md``` file
 
 Congratulations, you're all done! Navigate to username.github.io and view your resume on your static Jekyll site hosted by GitHub Pages. 
 
+![](https://github.com/GurmanToor/GurmanToor.github.io/blob/main/resume.gif)
+
 
 ### More Resources
 * [Markdown Tutorial](https://www.markdowntutorial.com/)
@@ -98,5 +100,17 @@ Word processors are great for creating short and attractive PDF's that have a si
 
 Additionally, documentation should be widely available online. Word's HTML export feature is highly unreliable and ineffective for building websites. In contrast, Markdown is very compatible when creating websites with minimal overhead. Also, Markdown is completely free to use while word processors (such as Microsoft Word) can cost money and are limited to certain operating systems. 
 
-### 
+### How can I test my website locally?
+
+If you want to test your site locally before committing the changes to your GitHub Pages repository, follow these steps:
+
+1. Open your Linux terminal
+2. Navigate to the folder in which your repository is located
+3. Enter the command: ```bundle exec jekyll serve```
+4. Open your web browser
+5. Enter ```http://localhost:4000/``` into the search bar and hit enter
+
+Your website is now hosted locally and you may review your changes as necessary. Enter ctrl+c in the terminal to stop the local server. 
+
+
 
