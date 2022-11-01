@@ -17,15 +17,26 @@ A tutorial of how to host a resume on GitHub Pages while introducing and and dem
 In order to host a resume on GitHub Pages, we must first create a repository on GitHub that runs GitHub Pages.
 
 1. Log in to [GitHub](https://github.com)
+    
+    *Connection to Ettier's Book:* Links are helpful to guide the user to where exactly they need to go and can help to reduce the amount of steps. Also, they avoid duplication and redundancy as technical documentation should be as comprehensive as possible. 
+    
 2. Navigate to [create a new repository](https://github.com/new)
+
+    *Connection to Ettier's Book:* GitHub repositories use version control which allow for better performance, offline work and are superior for concurrent work on the same file.
+    
 3. Under "**Repository name**", enter *username*.github.io where *username* is your username on GitHub.
-4. Open your Linux terminal
+
+    *Connection to Ettier's Book:* Bold is used for user interface elements. In this case, repository name is an element on the GitHub webpage. 
+
+4. Open your Linux terminal   
 5. In your terminal, navigate to the folder in which you want to store your repository
 6. Clone the repository by entering:
     ```
     git clone https://github.com/username/username.github.io
     ```
     into the terminal.
+    
+    *Connection to Ettier's Book:* Monospace should be used for terminal code.
     
 Congratulations! Your GitHub Pages website is now live at https://username.github.io
 
